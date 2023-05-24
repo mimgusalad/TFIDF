@@ -1,0 +1,8 @@
+d1
+eat apple eat grape
+d2
+eat banana eat grape
+d3
+sweet green grape
+d4
+pretty fruit box 
